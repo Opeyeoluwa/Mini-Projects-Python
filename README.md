@@ -1,4 +1,4 @@
-#Python-Projects
+<h1>Python-Projects</h1>
 
 Hello and thank you for checking out my python projects.
 This repository is a collection of Python codes i have used to train myself to become a better programmer.
